@@ -1,6 +1,6 @@
 import string
 
-
+// making input to type a text to translate into ceaser cipher
 plain_text = input("normal caesar cipher: ")
 print(plain_text)
 
